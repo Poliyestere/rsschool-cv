@@ -7,8 +7,9 @@ _+ 375 29 667 26 87_
 *kseniyaramanava@gmail.com*
 
 **Languages:**
-Python
-Java Script
+
+- Python
+- Javascript
 
 **WORK EXPIRIENCE**\
 forYou - AI and AR-powered mobile application for professional cosmetological and dermatological facial skincare\
