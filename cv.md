@@ -23,10 +23,10 @@ Bachelor's degree 2014
 
 **PROFESSIONAL COURSES**
 
-- _RS School_
+- _RS School_\
   JavaScript/Front-end
 
-* _OXFORD International Language School_
+* _OXFORD International Language School_\
   English - London 2020
 
 * _UNIVERSITY OF ALBERTA_\
