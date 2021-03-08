@@ -23,8 +23,8 @@ Bachelor's degree 2014
 
 **PROFESSIONAL COURSES**
 
-- _EPAM University_
-  JavaScript Development
+- _RS School_
+  JavaScript/Front-end
 
 * _OXFORD International Language School_
   English - London 2020
